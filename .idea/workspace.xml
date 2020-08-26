@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="964ffb93-204d-4f3e-9e94-8ceefd805b87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\.m2\repository" />
+        <option name="userSettingsFile" value="E:\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g1fR4JqO92T3qWnBHuGCf4fUhG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jeecg-boot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\jeecg-boot-master\jeecg-boot\jeecg-boot-module-system\src\main\java\org\jeecg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JeecgApplication">
+    <configuration name="JeecgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.jeecg.JeecgApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/ant-design-vue-jeecg/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="964ffb93-204d-4f3e-9e94-8ceefd805b87" name="Default Changelist" comment="" />
+      <created>1597287007435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597287007435</updated>
+      <workItem from="1597287009911" duration="287000" />
+      <workItem from="1597287327608" duration="4684000" />
+      <workItem from="1597298637413" duration="2508000" />
+      <workItem from="1597302144626" duration="4444000" />
+      <workItem from="1597309656473" duration="1547000" />
+      <workItem from="1598420716449" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="2" key="#JeecgApplication" timestamp="1597311143105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="2" key="#JeecgApplication/0.0.1366.728@0.0.1366.728" timestamp="1597311143105" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1597310713868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1597310713868" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597311158678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597311158678" />
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597311157842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597311157842" />
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597298175329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1597298175329" />
+    <state x="100" y="100" width="1166" height="528" key="DiffContextDialog" timestamp="1597310714558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1597310714558" />
+    <state x="460" y="107" key="FileChooserDialogImpl" timestamp="1597310409851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597310409851" />
+    <state x="496" y="261" key="Github.CreateGistDialog" timestamp="1598420854315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="261" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1598420854315" />
+    <state width="1306" height="181" key="GridCell.Tab.0.bottom" timestamp="1597309604188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597309604188" />
+    <state width="1306" height="181" key="GridCell.Tab.0.center" timestamp="1597309604187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597309604187" />
+    <state width="1306" height="181" key="GridCell.Tab.0.left" timestamp="1597309604187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597309604187" />
+    <state width="1306" height="181" key="GridCell.Tab.0.right" timestamp="1597309604187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597309604187" />
+    <state width="1306" height="181" key="GridCell.Tab.1.bottom" timestamp="1597309604188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597309604188" />
+    <state width="1306" height="181" key="GridCell.Tab.1.center" timestamp="1597309604188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597309604188" />
+    <state width="1306" height="181" key="GridCell.Tab.1.left" timestamp="1597309604188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597309604188" />
+    <state width="1306" height="181" key="GridCell.Tab.1.right" timestamp="1597309604188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597309604188" />
+    <state width="1306" height="181" key="GridCell.Tab.2.bottom" timestamp="1597309604189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597309604189" />
+    <state width="1306" height="181" key="GridCell.Tab.2.center" timestamp="1597309604189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1597309604189" />
+    <state width="1306" height="181" key="GridCell.Tab.2.left" timestamp="1597309604189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1597309604189" />
+    <state width="1306" height="181" key="GridCell.Tab.2.right" timestamp="1597309604189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="181" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1597309604189" />
+    <state width="1306" height="345" key="GridCell.Tab.3.bottom" timestamp="1597309604133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="345" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597309604133" />
+    <state width="1306" height="345" key="GridCell.Tab.3.center" timestamp="1597309604133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="345" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1597309604133" />
+    <state width="1306" height="345" key="GridCell.Tab.3.left" timestamp="1597309604133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="345" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1597309604133" />
+    <state width="1306" height="345" key="GridCell.Tab.3.right" timestamp="1597309604133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="345" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1597309604133" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1597310913652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1597310913652" />
+    <state x="378" y="67" key="NewModule_or_Project.wizard" timestamp="1597310392826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1597310392826" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1598420840718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="218" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598420840718" />
+    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597311240246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597311240246" />
+    <state x="370" y="119" width="880" height="490" key="find.popup" timestamp="1597305098073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="119" width="880" height="490" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597305098073" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597310855564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597310855564" />
+  </component>
+</project>
